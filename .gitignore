@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build and cache outputs
+dist/
+build/
+coverage/
+.cache/
+.parcel-cache/
+.vite/
+
+# AI/ML study artifacts
+models/
+checkpoints/
+datasets/
+data/
+*.model
+*.weights
+*.onnx
+*.tflite
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+!.vscode/extensions.json
