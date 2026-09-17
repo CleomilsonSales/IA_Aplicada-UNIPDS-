@@ -25,7 +25,6 @@ coverage/
 models/
 checkpoints/
 datasets/
-data/
 *.model
 *.weights
 *.onnx

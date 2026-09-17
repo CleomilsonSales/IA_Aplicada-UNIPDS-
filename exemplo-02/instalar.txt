@@ -1,0 +1,2 @@
+node 22
+chamar: npm ci -> isso vai refazer as dependencias e instalar o necessario

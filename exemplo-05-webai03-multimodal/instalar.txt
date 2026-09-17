@@ -1,0 +1,2 @@
+instalar o gemini nano no chrome
+npm ci
